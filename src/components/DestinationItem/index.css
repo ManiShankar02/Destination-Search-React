@@ -1,0 +1,18 @@
+.listItems {
+  list-style-type: none;
+  width: 250px;
+  margin-left: 18px;
+  margin-right: 18px;
+  margin-bottom: 35px;
+}
+
+.image {
+  width: 250px;
+  height: 200px;
+}
+
+.para {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
